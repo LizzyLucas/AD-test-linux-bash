@@ -1,6 +1,6 @@
 # Linux Mint 20.0 ⚙️
 
-### Pasos a seguir para trabajar en la terminal de Linux Mint 20.0 con linea de comandos por terminal
+### Pasos a seguir para trabajar en la terminal de Cinnamon con línea de comandos.
 
 _Nota: Los comandos que aquí aparecen deben de ejecutarse después del signo de **$**_
 
