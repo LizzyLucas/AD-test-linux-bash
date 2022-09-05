@@ -79,13 +79,13 @@ _Existen 3 tipos de permisos que se le pueden asignar a los usuarios:_
 
 * [Archivo con extensión .txt de ejemplo](https://github.com/LizzyLucas/AD-test-linux-bash/blob/main/Apple%20Inc.txt)
 
-**Guardar cambios
+**Guardar cambios**
 
 * Ctrl + o
       
 Enter (aquí se puede apreciar un mensaje con el número total de lineas escritas dentro del archivo)
 
-**Salir del GNU
+**Salir del GNU**
 
 * Ctrl + x
 
